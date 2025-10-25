@@ -1,6 +1,6 @@
 <h4 align="center">
   <samp>
-    Hello individual 👋, welcome to my GitHub! I'm a freshman at Iowa State. 
+    Hello World 👋, welcome to my GitHub! I'm a freshman at Iowa State. 
     Right now I am refining my skills in Python, and then hopefully learn full-stack development.
   </samp>
 </h4>
