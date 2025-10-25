@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-  <img width="250" src="https://i.giphy.com/media/MtS992URpAofAjHgOy/giphy.gif" alt="animated welcome gif">
+  <img width="480" height="269" src="./track.gif" alt="welcome gif">
 </p>
 
 <p align="center">
