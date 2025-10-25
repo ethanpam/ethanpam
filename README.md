@@ -1,7 +1,6 @@
 <h4 align="center">
   <samp>
-    Hello World 🌍, welcome to my GitHub! I'm a freshman at Iowa State. 
-    Right now I am refining my skills in Python, and then hopefully learn full-stack development.
+   Welcome World 🌍 | CS freshman @ Iowa State 🌽 | Learning Python 🐍 → full-stack dev 💻 | Striving to be the best
   </samp>
 </h4>
 
