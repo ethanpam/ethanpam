@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a freshman at Iowa State. Right now I am refining my skills in Python, then hopefully learn full-stack development </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/MtS992URpAofAjHgOy/giphy.gif">
+  <img width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dzYTJmb2VmNTBuZHRieXpzeTJ3OWY4MnAxYzU4YThwdHpwYmkyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MtS992URpAofAjHgOy/giphy.gif">
 </p>
 
 <p align="center"><samp>
