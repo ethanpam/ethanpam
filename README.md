@@ -8,7 +8,3 @@
 <p align="center">
   <img width="480" height="269" src="./track.gif" alt="welcome gif">
 </p>
-
-<p align="center">
-  <samp>Check out my repos ⬇️</samp>
-</p>
