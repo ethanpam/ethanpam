@@ -1,8 +1,5 @@
-<h4 align="center">
-  <samp>
-    hi, i'm ethan. i build front-ends people actually use.
-  </samp>
-</h4>
+<h3 align="center"><samp>ethan pham</samp></h3>
+<p align="center"><samp>cs + ai @ iowa state · front-end at john deere · ames, ia</samp></p>
 
 <p align="center">
   <img width="480" height="269" src="./track.gif" alt="welcome gif">
